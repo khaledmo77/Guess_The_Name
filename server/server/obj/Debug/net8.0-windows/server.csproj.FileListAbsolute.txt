@@ -1,0 +1,34 @@
+D:\C# mosh\Finalll\server\server\bin\Debug\net8.0-windows\server.exe
+D:\C# mosh\Finalll\server\server\bin\Debug\net8.0-windows\server.deps.json
+D:\C# mosh\Finalll\server\server\bin\Debug\net8.0-windows\server.runtimeconfig.json
+D:\C# mosh\Finalll\server\server\bin\Debug\net8.0-windows\server.dll
+D:\C# mosh\Finalll\server\server\bin\Debug\net8.0-windows\server.pdb
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.Form1.resources
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.csproj.GenerateResource.cache
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.AssemblyInfoInputs.cache
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.AssemblyInfo.cs
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.csproj.CoreCompileInputs.cache
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.dll
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\refint\server.dll
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.pdb
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.genruntimeconfig.cache
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\ref\server.dll
+D:\C# mosh\Finalll\server\server\obj\Debug\net8.0-windows\server.Properties.Resources.resources
+D:\C# mosh\Project C#\server\server\bin\Debug\net8.0-windows\server.exe
+D:\C# mosh\Project C#\server\server\bin\Debug\net8.0-windows\server.deps.json
+D:\C# mosh\Project C#\server\server\bin\Debug\net8.0-windows\server.runtimeconfig.json
+D:\C# mosh\Project C#\server\server\bin\Debug\net8.0-windows\server.dll
+D:\C# mosh\Project C#\server\server\bin\Debug\net8.0-windows\server.pdb
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.Form1.resources
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.Properties.Resources.resources
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.csproj.GenerateResource.cache
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.AssemblyInfoInputs.cache
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.AssemblyInfo.cs
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.csproj.CoreCompileInputs.cache
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.dll
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\refint\server.dll
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.pdb
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\server.genruntimeconfig.cache
+D:\C# mosh\Project C#\server\server\obj\Debug\net8.0-windows\ref\server.dll

@@ -1,0 +1,8 @@
+Car
+Bus
+Truck
+Boat
+Train
+Subway
+Segway
+
