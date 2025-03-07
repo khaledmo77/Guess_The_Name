@@ -1,0 +1,41 @@
+D:\C# mosh\Client\client\bin\Debug\net8.0-windows\ClientSide.exe
+D:\C# mosh\Client\client\bin\Debug\net8.0-windows\ClientSide.deps.json
+D:\C# mosh\Client\client\bin\Debug\net8.0-windows\ClientSide.runtimeconfig.json
+D:\C# mosh\Client\client\bin\Debug\net8.0-windows\ClientSide.dll
+D:\C# mosh\Client\client\bin\Debug\net8.0-windows\ClientSide.pdb
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.csproj.GenerateResource.cache
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.AssemblyInfoInputs.cache
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.AssemblyInfo.cs
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.csproj.CoreCompileInputs.cache
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.dll
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\refint\ClientSide.dll
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.pdb
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSide.genruntimeconfig.cache
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ref\ClientSide.dll
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSideImp.GameForm.resources
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSideImp.LobbyForm.resources
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSideImp.LoginForm.resources
+D:\C# mosh\Client\client\obj\Debug\net8.0-windows\ClientSideImp.Properties.Resources.resources
+D:\C# mosh\Project C#\client\bin\Debug\net8.0-windows\ClientSide.exe
+D:\C# mosh\Project C#\client\bin\Debug\net8.0-windows\ClientSide.deps.json
+D:\C# mosh\Project C#\client\bin\Debug\net8.0-windows\ClientSide.runtimeconfig.json
+D:\C# mosh\Project C#\client\bin\Debug\net8.0-windows\ClientSide.dll
+D:\C# mosh\Project C#\client\bin\Debug\net8.0-windows\ClientSide.pdb
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSideImp.GameForm.resources
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSideImp.LobbyForm.resources
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSideImp.LoginForm.resources
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSideImp.Properties.Resources.resources
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.csproj.GenerateResource.cache
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.AssemblyInfoInputs.cache
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.AssemblyInfo.cs
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.csproj.CoreCompileInputs.cache
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.dll
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\refint\ClientSide.dll
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.pdb
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.genruntimeconfig.cache
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ref\ClientSide.dll
+D:\C# mosh\Project C#\client\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.csproj.AssemblyReference.cache
+D:\C# mosh\Project C#\client\obj\Debug\net8.0-windows\ClientSide.csproj.Up2Date

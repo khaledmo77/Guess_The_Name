@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# mosh\\Project C#\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|d:\\c# mosh\\project c#\\server\\server\\serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\serverclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|d:\\c# mosh\\project c#\\server\\server\\roomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\roomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|d:\\c# mosh\\project c#\\server\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|D:\\C# mosh\\Project C#\\server\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|d:\\c# mosh\\project c#\\server\\server\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|d:\\c# mosh\\project c#\\server\\server\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|d:\\c# mosh\\project c#\\server\\server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEFD449-123F-47C6-9DF6-63AEF008EBB1}|server\\server.csproj|solutionrelative:server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "server\\Form1.Designer.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\Form1.Designer.cs",
+              "RelativeToolTip": "server\\Form1.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:42:54.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\Form1.cs",
+              "RelativeDocumentMoniker": "server\\Form1.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\Form1.cs",
+              "RelativeToolTip": "server\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:39:43.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "serverclass.cs",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\serverclass.cs",
+              "RelativeDocumentMoniker": "server\\serverclass.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\serverclass.cs",
+              "RelativeToolTip": "server\\serverclass.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:38:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomClass.cs",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\RoomClass.cs",
+              "RelativeDocumentMoniker": "server\\RoomClass.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\RoomClass.cs",
+              "RelativeToolTip": "server\\RoomClass.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:37:42.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clientInfo.cs",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\clientInfo.cs",
+              "RelativeDocumentMoniker": "server\\clientInfo.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\clientInfo.cs",
+              "RelativeToolTip": "server\\clientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:37:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clientClass.cs",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\clientClass.cs",
+              "RelativeDocumentMoniker": "server\\clientClass.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\clientClass.cs",
+              "RelativeToolTip": "server\\clientClass.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:36:51.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# mosh\\Project C#\\server\\server\\Form1.cs",
+              "RelativeDocumentMoniker": "server\\Form1.cs",
+              "ToolTip": "D:\\C# mosh\\Project C#\\server\\server\\Form1.cs [Design]",
+              "RelativeToolTip": "server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:36:16.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
